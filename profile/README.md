@@ -1,6 +1,6 @@
 ## Kempner Institute for the Study of Natural and Artificial Intelligence
 
-![Alt text](Tagline-Logo-with-Harvard-Shield-high-res.png)
+![Alt text](https://github.com/KempnerInstitute/.github/blob/main/profile/Tagline-Logo-with-Harvard-Shield-high-res.png)
 
 Welcome to the Github page for the Kempner Institute for the Study of Natural and Artificial Intelligence at Harvard University. We are a community of students, researchers and engineers committed to unlocking the mysteries of intelligence in both natural and artificial contexts.
 
